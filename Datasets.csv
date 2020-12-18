@@ -1,0 +1,301 @@
+ID,Location,Name,Category,Price,Rooms,Baths,Measurement,Type,Condition,Wages
+1,Calidonia,WHITE,Sale,250000,2,2,119,Apartment,2,4551
+2,Calidonia,H2O,Sale,589000,3,3,405,Apartment,1,7915
+3,Calidonia,WHITE,Sale,338000,3,3,169,Apartment,2,6825
+4,Bella Vista,RIVAGE,Sale,390000,2,2,177,Apartment,2,7019
+5,Bella Vista,WATERS ON THE BAY,Rental,370000,2,2,122,Apartment,2,5862
+6,Calidonia,BAYFRONT,Sale,215000,1,1,100,Apartment,2,3692
+7,Calidonia,LA ENSENADA,Rental,360000,3,3,194,Apartment,2,2949
+8,Bella Vista,RIVAGE,Rental,550000,2,2,169,Apartment,2,4754
+9,Bella Vista,MIRAMAR TORRE 2,Sale,1500000,3,3,750,Apartment,1,8657
+10,Calidonia,MIRAMAR PLAZA,Sale,1500000,3,4,600,Apartment,1,3978
+11,Bella Vista,RIVAGE,Sale,950000,3,3,347,Apartment,1,7353
+12,Bella Vista,ARTS & YOO,Sale,1080000,3,3,316,Apartment,1,7495
+13,Bella Vista,MIRAMAR TORRE 2,Sale,800000,3,3,375,Apartment,1,9985
+14,Bella Vista,MIRAMAR TORRE 2,Sale,900000,3,3,375,Apartment,1,6386
+15,Bella Vista,WATERS ON THE BAY,Rental,390000,2,2,123,Apartment,2,3294
+16,Bella Vista,YOO,Rental,650000,2,2,180,Apartment,1,3220
+17,Calidonia,BAYFRONT TOWER,Sale,220000,1,1,87,Apartment,2,6602
+18,Bella Vista,YOO,Sale,295000,1,1,94,Apartment,2,4380
+19,Bella Vista,YOO,Sale,550000,2,2,176,Apartment,2,8440
+20,Ancón,YACHT CLUB,Sale,420000,2,2,152,Apartment,1,4906
+21,Ancón,YACHT CLUB,Rental,500000,3,2,179,Apartment,1,6222
+22,Bella Vista,RIVAGE,Sale,360000,1,2,150,Apartment,2,8123
+23,Calidonia,WATERS ON THE BAY,Sale,690000,3,3,269,Apartment,2,5031
+24,Calidonia,WHITE,Rental,280000,1,1,121,Apartment,2,8321
+25,Bella Vista,MIRAMAR TORRE 2,Rental,900000,3,3,375,Apartment,1,4118
+26,Calidonia,WHITE,Sale,280000,2,2,119,Apartment,2,2688
+27,San Francisco,Apartamento JW Marriott,Sale,395000,1,1,130,Apartment,2,6567
+28,"Punta Pacifica, San francisco",OCEANAIRE,Sale,218000,1,1,95,Apartment,2,7717
+29,"Punta Pacifica, San francisco",PH Oasis on the Bay,Sale,225000,2,1,199,Apartment,2,5052
+30,"Punta Pacifica, San francisco",ROYAL PACIFIC,Sale,260000,3,2,144,Apartment,2,7364
+31,"Punta Pacifica, San francisco",Aquamare 29-B,Sale,850000,3,3,356,Apartment,1,6924
+32,"Punta Pacifica, San francisco",COURTYARD VIEW,Sale,225000,2,2,160,Apartment,2,8780
+33,"Punta Pacifica, San francisco",AQUALINA,Sale,749000,3,3,381,Apartment,1,9810
+34,"Punta Pacifica, San francisco",DUPONT TOWER,Sale,420000,2,2,250,Apartment,1,9026
+35,"Punta Pacifica, San francisco",MYSTIC POINT,Rental,450000,3,3,217,Apartment,1,4251
+36,"Punta Pacifica, San francisco",MYSTIC POINT T100,Rental,315000,3,3,180,Apartment,2,8042
+37,"Punta Pacifica, San francisco",Punta Roca,Sale,1000000,4,4,526,Apartment,1,3645
+38,"Punta Pacifica, San francisco",COSTA PACIFICA T100,Sale,290000,2,2,242,Apartment,2,9775
+39,"Punta Pacifica, San francisco",OASIS,Sale,210000,2,1,99,Apartment,2,8389
+40,"Punta Pacifica, San francisco",AQUALINA,Sale,720000,4,4,408,Apartment,1,4506
+41,"Punta Pacifica, San francisco",COSTA PACIFICA T100,Sale,249000,3,2,242,Apartment,2,5546
+42,"Punta Pacifica, San francisco",BLUE BAHIA,Sale,895000,4,5,126,Apartment,1,6884
+43,"Punta Pacifica, San francisco",BLUE BAHIA,Rental,579000,3,3,126,Apartment,1,6861
+44,"Punta Pacifica, San francisco",DUPONT TOWER,Rental,379000,2,2,126,Apartment,2,2661
+45,"Punta Pacifica, San francisco",OCEANAIRE,Rental,290000,2,2,155,Apartment,2,5093
+46,"Punta Pacifica, San francisco",PH Oceanaire,Sale,330000,2,2,178,Apartment,2,8930
+47,"Punta Pacifica, San francisco",SEMI-AMOBLADO + DEPÓSITO DE 11 METROS,Sale,277000,2,1,99,Apartment,1,3213
+48,"Punta Pacifica, San francisco",AQUALINA,Rental,636000,3,3,328,Apartment,1,8756
+49,"Punta Pacifica, San francisco",COSTA PACIFICA T100,Rental,410000,3,2,242,Apartment,1,5191
+50,"Punta Pacifica, San francisco",COSTA PACIFICA T400,Rental,385000,3,3,199,Apartment,2,8419
+51,"Punta Pacifica, San francisco","BLUE BAHIA, Distinguido ! Impecable !",Sale,599000,3,3,279,Apartment,1,2620
+52,"Punta Pacifica, San francisco",PACIFIC STAR,Rental,300000,3,3,180,Apartment,2,4179
+53,"Punta Pacifica, San francisco",PACIFIC POINT TORRE 300,Sale,570000,3,3,306,Apartment,1,9089
+54,"Punta Pacifica, San francisco",OCEANAIRE,Rental,840000,2,2,321,Apartment,1,3114
+55,"Punta Pacifica, San francisco",OCEAN PARK TORRE 1,Sale,550000,3,3,259,Apartment,1,5767
+56,"Punta Pacifica, San francisco",LOFT FOUR 41,Sale,540000,2,1,483,Apartment,1,3582
+57,"Punta Pacifica, San francisco",OCEAN DRIVE,Sale,430000,3,3,222,Apartment,1,3995
+58,"Punta Pacifica, San francisco",COSTA PACIFICA T400,Rental,360000,3,3,199,Apartment,1,3336
+59,"Punta Pacifica, San francisco",OCEAN DRIVE,Sale,460000,3,3,460,Apartment,1,7984
+60,"Punta Pacifica, San francisco",OASIS ON THE BAY,Rental,220000,2,1,99,Apartment,2,8482
+61,"Punta Pacifica, San francisco",COSTA PACIFICA TORRE T100,Sale,240000,3,3,126,Apartment,2,6077
+62,"Punta Pacifica, San francisco",PACIFIC POINT TORRE 300,Sale,720000,3,4,306,Apartment,1,5500
+63,"Punta Pacifica, San francisco",PACIFIC POINT TORRE 700,Rental,1100000,3,3,389,Apartment,1,9054
+64,"Punta Pacifica, San francisco",GRAND TOWER,Sale,345000,2,2,159,Apartment,2,6927
+65,"Punta Pacifica, San francisco",TRUMP OCEAN CLUB,Sale,515000,2,2,153,Apartment,1,5348
+66,"Punta Pacifica, San francisco",TRUMP OCEAN CLUB,Sale,515000,2,2,153,Apartment,1,3266
+67,"Punta Pacifica, San francisco",OCEAN DRIVE,Sale,575000,3,3,333,Apartment,1,7428
+68,"Punta Pacifica, San francisco",PACIFIC POINT TORRE 200,Sale,1027650,3,3,395,Apartment,1,6529
+69,"Punta Pacifica, San francisco",TRUMP OCEAN CLUB,Rental,550000,2,2,153,Apartment,1,8772
+70,"Punta Pacifica, San francisco",OCEAN DRIVE,Sale,460000,3,3,222,Apartment,1,6821
+71,"Punta Pacifica, San francisco",PACIFIC BLUE,Sale,190000,2,2,88,Apartment,2,8353
+72,"Punta Pacifica, San francisco",ROYAL PACIFIC,Rental,290000,3,2,129,Apartment,2,6593
+73,"Punta Pacifica, San francisco",PACIFIC POINT,Sale,1095000,3,4,404,Apartment,1,6001
+74,"Punta Pacifica, San francisco",PACIFIC POINT TORRE 300,Rental,1050000,3,3,306,Apartment,1,2981
+75,"Punta Pacifica, San francisco",OCEAN PARK TORRE 2,Sale,660000,4,4,280,Apartment,1,8596
+76,"Punta Pacifica, San francisco",PACIFIC SKY,Sale,450000,2,2,220,Apartment,1,2894
+77,"Punta Pacifica, San francisco",GRAND TOWER,Sale,702975,2,2,251,Apartment,1,6808
+78,"Punta Pacifica, San francisco",GRAND TOWER,Sale,460875,2,2,171,Apartment,1,9047
+79,"Punta Pacifica, San francisco",GRAND TOWER,Sale,623600,2,2,115,Apartment,1,8560
+80,"Punta Pacifica, San francisco",Q TOWER,Sale,950000,4,6,363,Apartment,1,5676
+81,"Punta Pacifica, San francisco",AQUAMARE,Sale,1450000,3,3,610,Apartment,1,2697
+82,"Punta Pacifica, San francisco",DUPONT TOWER,Rental,1199000,3,3,442,Apartment,1,4127
+83,"Punta Pacifica, San francisco",AQUAMARE,Sale,1100000,3,3,356,Apartment,1,8086
+84,"Punta Pacifica, San francisco",OCEAN PARK TORRE 1,Sale,985000,4,3,448,Apartment,1,5341
+85,Bella Vista,WHITE,Sale,250000,2,2,119,Apartment,2,9690
+86,Bella Vista,H2O,Sale,589000,3,3,405,Apartment,2,2942
+87,Calidonia,WHITE,Sale,338000,3,3,169,Apartment,2,2722
+88,Calidonia,RIVAGE,Sale,390000,2,2,177,Apartment,2,5946
+89,Bella Vista,WATERS ON THE BAY,Rental,370000,2,2,122,Apartment,2,2547
+90,Calidonia,BAYFRONT,Sale,215000,1,1,100,Apartment,2,9047
+91,Bella Vista,LA ENSENADA,Rental,360000,3,3,194,Apartment,2,2571
+92,Calidonia,RIVAGE,Rental,550000,2,2,169,Apartment,1,4092
+93,Bella Vista,MIRAMAR TORRE 2,Sale,1500000,3,3,750,Apartment,1,7526
+94,Calidonia,MIRAMAR PLAZA,Sale,1500000,3,4,600,Apartment,1,4264
+95,Calidonia,RIVAGE,Sale,950000,3,3,347,Apartment,1,8634
+96,Bella Vista,ARTS & YOO,Sale,1080000,3,3,316,Apartment,1,5022
+97,Bella Vista,MIRAMAR TORRE 2,Sale,800000,3,3,375,Apartment,1,6373
+98,Bella Vista,MIRAMAR TORRE 2,Sale,900000,3,3,375,Apartment,1,6641
+99,Bella Vista,WATERS ON THE BAY,Rental,390000,2,2,122,Apartment,2,9301
+100,Bella Vista,YOO,Rental,650000,2,2,180,Apartment,1,6340
+101,Calidonia,BAYFRONT TOWER,Sale,220000,1,1,87,Apartment,2,3487
+102,Bella Vista,YOO,Sale,295000,1,1,94,Apartment,2,2735
+103,Bella Vista,YOO,Sale,550000,2,2,176,Apartment,1,4724
+104,Calidonia,YACHT CLUB,Sale,420000,2,2,152,Apartment,1,2562
+105,Calidonia,YACHT CLUB,Rental,500000,3,2,179,Apartment,1,3578
+106,Calidonia,RIVAGE,Sale,360000,1,2,150,Apartment,2,4074
+107,Bella Vista,WATERS ON THE BAY,Sale,690000,3,3,269,Apartment,1,9414
+108,Calidonia,WHITE,Rental,280000,1,1,121,Apartment,2,5898
+109,Bella Vista,MIRAMAR TORRE 2,Rental,900000,3,3,375,Apartment,1,3726
+110,Calidonia,WHITE,Sale,280000,2,2,119,Apartment,2,9790
+111,"Obarrio, Bella Vista",PH BRISAS OBARRIO,Sale,240000,3,3,173,Apartment,2,5860
+112,"Obarrio, Bella Vista",RIVER PARK,Sale,240000,3,2,131,Apartment,2,5076
+113,"Obarrio, Bella Vista",Vendo ganga apto amueblado Obarrio,Sale,230000,3,3,150,Apartment,2,4034
+114,"Obarrio, Bella Vista","CASA EN OBARRIO PARA REMODELAR $ 400,000",Sale,400000,3,4,170,House,1,2530
+115,"Obarrio, Bella Vista",EXCELENTE APARTAMENTO EN OBARRIO,Sale,275000,2,3,135,Apartment,2,6853
+116,"Obarrio, Bella Vista",PH Denovo,Sale,205000,2,2,110,Apartment,2,9785
+117,"Obarrio, Bella Vista",SOPHIA TOWER,Sale,355000,3,3,188,Apartment,2,9922
+118,"Obarrio, Bella Vista",CASA EN OBARRIO,Sale,750000,3,3,292,House,1,2981
+119,"Obarrio, Bella Vista",SOPHIA TOWER,Sale,375000,3,3,188,Apartment,2,4058
+120,Bella Vista,THE PALM,Rental,382812,3,3,166,Apartment,2,5827
+121,Bella Vista,THE PALM,Rental,383456,3,3,167,Apartment,2,6790
+122,Bella Vista,RIVER PARK,Sale,325000,2,2,131,Apartment,2,4582
+123,Bella Vista,Apartamento en Yacht Club,Sale,261670,1,1,166,Apartment,2,7578
+124,Bella Vista,ESCUCHAMOS OFERTAS ¡PRECIO NEGOCIABLE!,Sale,270000,2,2,108,Apartment,2,5412
+125,Bella Vista,THE SEAWAVES,Sale,220000,3,2,125,Apartment,2,8964
+126,Bella Vista,CERROMAR,Sale,470000,4,4,331,Apartment,1,9291
+127,Bella Vista,Apartamento en PH Marina Park,Sale,390000,3,3,204,Apartment,2,3455
+128,Bella Vista,Miramar 36-B,Sale,690000,3,3,375,Apartment,1,8175
+129,Bella Vista,SE VENDE APARTAMENTO EN PH ALLURE,Sale,550000,3,3,287,Apartment,1,9834
+130,Bella Vista,MEGAPOLIS PISO ALTO | EVALUAMOS OFERTAS,Sale,101000,1,1,43,Apartment,2,7616
+131,Bella Vista,ph h2o on the ocean,Rental,485000,4,3,280,Apartment,1,3117
+132,Bella Vista,Torres del Pacifico Torre B,Sale,300000,3,3,180,Apartment,2,8889
+133,Cinta Costera,NUOVO PANAMA con 4 ESTACIONAMIENTOS,Sale,390000,2,3,101,Apartment,2,8680
+134,Cinta Costera,NUOVO PANAMA con 2 ESTACIONAMIENTOS,Sale,330000,2,3,94,Apartment,2,9004
+135,Bella Vista,Apartamento en Sale PH Rivage 29-B,Sale,275000,2,2,150,Apartment,2,5798
+136,Cinta Costera,NUOVO PANAMA A PASOS DE LA CINTA COSTERA,Sale,299000,2,3,94,Apartment,2,5094
+137,Bella Vista,ROR,Sale,298000,3,3,239,Apartment,2,9472
+138,Bella Vista,CASA COMERCIAL EN BELLA VISTA,Rental,1080000,6,6,720,House,1,7133
+139,Bella Vista,"P.H BELLA VISTA PARK,",Rental,297500,2,2,160,Apartment,2,6891
+140,Bella Vista,PH BELLA VISTA PARK,Sale,290000,2,2,132,Apartment,2,6892
+141,Bella Vista,ROR,Sale,330000,3,3,228,Apartment,2,5370
+142,Bella Vista,ROR,Sale,398000,2,2,228,Apartment,2,3609
+143,Bella Vista,BELLE VIEW,Sale,315000,3,2,125,Apartment,2,7048
+144,Bella Vista,Parkside Costa del Este,Rental,320000,1,1,96,Apartment,2,9444
+145,Costa del Este,MAREA II,Sale,2216700,4,4,718,Apartment,1,7305
+146,Bella Vista,COSTA SERENA,Rental,1100000,3,5,550,House,1,5618
+147,Costa del Este,Castellammare Loft,Sale,280000,2,2,113,Apartment,2,6102
+148,Costa del Este,Sol del Este,Sale,260000,3,3,147,Apartment,2,3851
+149,Costa del Este,COSTA SERENA,Sale,790000,4,4,420,House,1,3294
+150,Costa del Este,Costa Dorada #82,Sale,650000,3,3,380,House,1,8150
+151,Costa del Este,"Costa del Este, COSTA SERENA",Sale,1023000,3,3,500,House,1,7607
+152,Costa del Este,COSTA AZUL,Rental,850000,4,3,247,House,1,6496
+153,Costa del Este,Costa Serena,Rental,880000,4,4,462,House,1,7119
+154,Costa del Este,OCEAN ONE,Sale,620000,4,4,330,Apartment,1,9544
+155,Costa del Este,Green Bay III 22B,Sale,165000,3,2,114,Apartment,2,8883
+156,Costa del Este,COSTA SERENA,Sale,850000,3,3,360,House,1,5635
+157,Costa del Este,COSTA BAY,Sale,790000,3,3,414,House,1,5650
+158,Costa del Este,RIVERSIDE,Sale,294000,1,2,101,Apartment,2,7752
+159,Costa del Este,BALMORAL,Sale,2500000,4,4,767,House,1,3021
+160,Costa del Este,CAMELIAS,Sale,1500000,3,3,655,House,1,9537
+161,Costa del Este,BEGONIAS,Sale,1750000,6,6,900,House,1,8404
+162,Costa del Este,PH ALTAMAR DEL ESTE,Rental,699000,3,3,317,Apartment,1,6464
+163,Costa del Este,PH RIVERSIDE EN Rental O Sale,Rental,340000,1,2,105,Apartment,2,8240
+164,Costa del Este,COSTA BELLA RESIDENCIA EN Sale,Sale,740000,3,4,360,House,1,5266
+165,Costa del Este,MAREA II,Sale,2000000,4,4,718,Apartment,1,3408
+166,Costa del Este,PH VITRI TOWER,Rental,1300000,4,4,525,Apartment,1,9973
+167,Costa del Este,SOHO TOWER IMPECABLE,Rental,450000,3,3,207,Apartment,1,6398
+168,Costa del Este,COUNTRY CLUB,Rental,370000,3,3,204,Apartment,2,3800
+169,Costa del Este,PH SEVILLA T0RRE 1000,Sale,239000,2,2,110,Apartment,2,5094
+170,Costa del Este,TORRE ZEUS,Sale,706200,3,3,372,Apartment,1,5992
+171,Costa del Este,COSTA SERENA,Sale,1050000,5,5,520,House,1,8732
+172,Costa del Este,PARQUE DEL MAR I,Sale,365000,3,3,202,Apartment,2,8085
+173,Costa del Este,TOSCANA DEL ESTE,Sale,1800000,4,4,500,House,1,5308
+174,Costa del Este,ROYAL PACIFIC,Rental,1350000,5,4,575,House,1,3970
+175,Costa del Este,OCEAN TWO,Sale,875000,4,4,410,Apartment,1,5672
+176,Costa del Este,PH Breeze,Sale,450000,3,3,238,Apartment,1,8302
+177,Costa del Este,PH MAREA,Rental,1785000,4,4,626,Apartment,1,7469
+178,Costa del Este,OCEAN TWO,Sale,749000,3,3,415,Apartment,1,5381
+179,Costa del Este,Sol del Este 19A,Rental,260000,3,3,147,Apartment,2,8681
+180,Costa del Este,PH MAREA,Sale,1550000,4,4,626,Apartment,1,8134
+181,Costa del Este,PH PARQUE DEL MAR LINDA VISTA AL PARQUE,Sale,359900,3,3,202,Apartment,2,4140
+182,Costa del Este,OCEAN TWO,Sale,675000,3,3,303,Apartment,2,6881
+183,Costa del Este,PANAMA BAY TOWER,Rental,660000,3,3,338,Apartment,1,8182
+184,Costa del Este,VITRI TOWER,Rental,956228,3,3,368,Apartment,1,7074
+185,Costa del Este,GREEN BAY COSTA DEL ESTE,Sale,180000,3,2,125,Apartment,2,9572
+186,Costa del Este,Ocean Two,Rental,625000,3,3,303,Apartment,1,4765
+187,Costa del Este,Riverside,Rental,330000,2,2,142,Apartment,2,5093
+188,Costa del Este,Penthouse Breeze Costa del Este,Sale,1200000,4,5,443,Apartment,1,9444
+189,Costa del Este,TEN TOWER,Sale,895000,3,3,432,Apartment,1,8840
+190,Costa del Este,Casa,Sale,700000,3,3,313,House,1,4658
+191,Costa del Este,Parque del Mar,Rental,380000,3,3,202,Apartment,2,4445
+192,"Costa del Este,Juan Díaz",PH – Pearl At The Sea,Sale,695000,3,3,291,Apartment,1,5629
+193,"Costa del Este,Juan Díaz",PARKSIDE,Sale,300000,1,1,96,Apartment,2,6339
+194,"Costa del Este,Juan Díaz",Sevilla,Rental,220000,2,2,110,Apartment,2,3998
+195,"Costa del Este,Juan Díaz",LATITUDE,Sale,485000,3,3,210,Apartment,1,7846
+196,"Costa del Este,Juan Díaz",PH TITANIUM,Sale,475000,3,3,226,Apartment,1,7744
+197,"Costa del Este,Juan Díaz",Royal Pacific,Sale,1350000,4,4,561,House,1,3801
+198,"Costa del Este,Juan Díaz",MURANO,Sale,700000,3,3,290,Apartment,1,8994
+199,"Costa del Este,Juan Díaz",TEN TOWER,Sale,925000,3,3,424,Apartment,1,7366
+200,"Costa del Este,Juan Díaz",TOSCANA DEL ESTE,Sale,2200000,4,4,650,House,1,5398
+201,"Costa del Este,Juan Díaz",BALMORAL,Sale,3200000,5,8,850,House,1,9022
+202,"Costa del Este,Juan Díaz",THE REGENT COUNTRY CLUB,Sale,315000,2,2,106,Apartment,2,4918
+203,"Costa del Este,Juan Díaz",THE REGENT COUNTRY CLUB,Sale,280000,2,2,96,Apartment,2,6562
+204,"Costa del Este,Juan Díaz",MAREA II,Sale,2221700,4,4,718,Apartment,1,7516
+205,"Costa del Este,Juan Díaz",MAREA II,Sale,2206700,4,4,718,Apartment,1,6158
+206,"Costa del Este,Juan Díaz",MAREA II,Sale,2191700,4,4,718,Apartment,1,3849
+207,"Costa del Este,Juan Díaz",MAREA I,Sale,2000000,4,4,680,Apartment,1,9979
+208,"Costa del Este,Juan Díaz",PALMERAS DEL ESTE,Sale,889000,3,3,368,House,1,5722
+209,"Costa del Este,Juan Díaz",ACQUA I,Sale,915000,3,3,325,Apartment,1,9384
+210,"Costa del Este,Juan Díaz",MAREA II,Sale,2389000,4,4,1145,Apartment,1,7229
+211,"Costa del Este,Juan Díaz",ACQUA I,Sale,1040000,3,3,325,Apartment,1,7984
+212,"Costa del Este,Juan Díaz",TOP TOWERS,Sale,245000,2,2,119,Apartment,2,8674
+213,"Costa del Este,Juan Díaz",TITANIUM,Sale,550000,3,3,223,Apartment,1,3708
+214,"Costa del Este,Juan Díaz",PARQUE DEL MAR I,Sale,470000,3,3,202,Apartment,1,6953
+215,"Costa del Este,Parque Lefevre",MAGNOLIAS,Sale,1595000,4,4,807,House,1,6744
+216,"Costa del Este,Juan Díaz",COSTA VIEW,Sale,285000,3,2,164,Apartment,1,9887
+217,"Costa del Este,Juan Díaz",MURANO,Sale,790000,3,3,323,Apartment,1,9973
+218,"Costa del Este,Juan Díaz",COSTA DE LAS PERLAS,Rental,1400000,4,4,580,House,1,3062
+219,"Costa del Este,Juan Díaz",TOP TOWERS,Sale,270000,2,2,113,Apartment,2,8516
+220,"Costa del Este,Juan Díaz",MAGNOLIAS,Sale,2500000,4,5,1100,House,1,4042
+221,"Costa del Este,Juan Díaz",COSTA AZUL,Rental,1300000,4,4,467,House,1,7979
+222,"Costa del Este,Juan Díaz",BEGONIAS,Sale,1500000,4,4,570,House,1,8539
+223,"Costa del Este,Juan Díaz",BALMORAL,Sale,2450000,4,5,803,House,1,7724
+224,"Costa del Este,Juan Díaz",VERTIKAL,Rental,400000,3,3,172,Apartment,1,6047
+225,"Costa del Este,Juan Díaz",TITANIUM,Sale,950000,3,3,374,Apartment,1,7203
+226,"Costa del Este,Juan Díaz",ACQUA II,Sale,1100000,3,3,345,Apartment,1,7170
+227,"Costa del Este,Juan Díaz",BREEZE,Sale,510000,3,3,217,Apartment,1,8488
+228,"Costa del Este,Juan Díaz",SOL DEL ESTE TORRE 1,Sale,310000,3,3,147,Apartment,2,8150
+229,"Costa del Este,Juan Díaz",SEVILLA,Sale,310000,3,2,155,Apartment,1,8844
+230,"Costa del Este,Juan Díaz",MAGNOLIAS,Sale,3825000,5,5,1200,House,1,8949
+231,"Costa del Este,Juan Díaz",PALMERAS DEL ESTE,Sale,1075000,4,3,378,House,1,6925
+232,"Costa del Este,Juan Díaz",PEARL AT THE SEA,Sale,760000,3,3,292,Apartment,1,8258
+233,"Costa del Este,Juan Díaz",BREEZE,Sale,520000,3,3,217,Apartment,1,3324
+234,"Costa del Este,Juan Díaz",ELEVATION,Sale,400000,3,3,185,Apartment,1,4062
+235,"Costa del Este,Juan Díaz",COSTA DEL ESTE COUNTRY CLUB T100,Sale,470000,3,3,204,Apartment,1,4085
+236,"Costa del Este,Juan Díaz",SOL DEL ESTE TORRE 2,Sale,310000,3,3,147,Apartment,2,4778
+237,"Costa del Este,Juan Díaz",PARQUE DEL MAR I,Sale,530000,3,3,202,Apartment,1,8953
+238,"Costa del Este,Juan Díaz",PARQUE DEL MAR I,Sale,500000,3,3,202,Apartment,1,3598
+239,"SANTA MARIA,Juan Díaz",ACQUA II,Sale,1200000,3,3,345,Apartment,1,2875
+240,"SANTA MARIA,Juan Díaz",PH PRIVILEDGE,Rental,700000,3,3,235,Apartment,,4717
+241,"SANTA MARIA,Juan Díaz",THE HERITAGE,Sale,2100000,4,4,640,Apartment,1,5227
+242,"SANTA MARIA,Juan Díaz",THE RESERVE T300,Rental,1249000,4,4,416,Apartment,1,2777
+243,"SANTA MARIA,Juan Díaz",THE RESERVE T300,Sale,750000,4,5,296,Apartment,1,7211
+244,"SANTA MARIA,Juan Díaz",BUENAVISTA RESIDENCES,Sale,1199000,3,3,400,Apartment,1,2524
+245,"SANTA MARIA,Juan Díaz",LA VISTA ON THE GREEN,Sale,1700000,3,3,572,Apartment,1,3130
+246,"SANTA MARIA,Juan Díaz",LA VISTA ON THE GREEN,Sale,875000,3,3,336,Apartment,1,5703
+247,"SANTA MARIA,Juan Díaz",THE RESERVE T300,Sale,690000,4,4,296,Apartment,1,6462
+248,"SANTA MARIA,Juan Díaz",VALERY POINT,Sale,1158795,3,3,351,Apartment,1,7205
+249,"MARBELLA,Bella Vista",THE HERITAGE,Sale,3198050,3,3,640,Apartment,1,7437
+250,"MARBELLA,Bella Vista",EBBELLE,Rental,260000,3,3,158,Apartment,2,9373
+251,"MARBELLA,Bella Vista",SOL MARINA REMODELADO – 242M2,Sale,399000,3,3,242,Apartment,2,3008
+252,"MARBELLA,Bella Vista",Marbella Tower,Sale,265000,3,3,186,Apartment,,7061
+253,"MARBELLA,Bella Vista",PH Girasol,Sale,225000,3,2,168,Apartment,2,9754
+254,"MARBELLA,Bella Vista","Apartamento en Marbella, Ph Alfil",Sale,225000,3,3,174,Apartment,2,4007
+255,"MARBELLA,Bella Vista",PH LOS DELFINES APT 36,Rental,760000,4,4,560,Apartment,1,2879
+256,"MARBELLA,Bella Vista",Grand Bay 2 recámaras,Sale,225000,2,2,97,Apartment,2,7542
+257,"MARBELLA,Bella Vista",BAHIA ESMERALDA,Sale,910000,4,4,497,Apartment,1,3486
+258,"MARBELLA,Bella Vista",Luxury apartment in Yoo Panama,Sale,359000,1,1,121,Apartment,2,6554
+259,Bella Vista,TORRE MARBELLA,Sale,285000,3,3,187,Apartment,2,4044
+260,Bella Vista,BAHIA ESMERALDA,Sale,418500,3,3,245,Apartment,1,5619
+261,Bella Vista,BAHIA ESMERALDA,Rental,458000,3,3,246,Apartment,1,8028
+262,Bella Vista,RIO MAR,Sale,260000,3,2,215,Apartment,2,9654
+263,Bella Vista,COSTA DEL MAR,Sale,350000,3,3,241,Apartment,2,8921
+264,Bella Vista,MARBELLA 47,Sale,515000,3,3,195,Apartment,1,8826
+265,Bella Vista,MARBELLA TOWER II,Rental,288000,3,3,213,Apartment,2,4263
+266,San Francisco,MARBELLA TOWER II,Sale,420000,3,4,213,Apartment,1,9277
+267,San Francisco,PANAMAR,Sale,690000,3,3,378,Apartment,1,9619
+268,San Francisco,ICON TOWER,Sale,315000,3,3,160,Apartment,2,8613
+269,San Francisco,SOBRE LAS ROCAS,Rental,695000,3,3,575,Apartment,1,4396
+270,San Francisco,PUNTARENAS,Rental,670000,3,2,338,Apartment,1,3193
+271,San Francisco,Panamar Apt 2 A,Sale,625000,3,3,378,Apartment,1,8754
+272,San Francisco,SANTORINI,Rental,970000,3,3,536,Apartment,1,8514
+273,San Francisco,P.H. OCEAN SKY EN Sale PISO COMPLETO,Sale,650000,3,3,347,Apartment,1,6290
+274,San Francisco,OCEAN SKY,Sale,1500000,3,3,500,Apartment,1,4518
+275,San Francisco,DA VINCI,Rental,389000,3,3,221,Apartment,2,2994
+276,San Francisco,APARTAMENTO EN OCEAN SKY COCO DEL MAR,Sale,325000,2,1,147,Apartment,2,7685
+277,San Francisco,Edificio Panamar,Sale,1325000,4,3,620,Apartment,1,3262
+278,San Francisco,PUNTARENAS,Sale,660000,3,3,383,Apartment,1,7116
+279,San Francisco,BOUTIQUE QUARTIER DEL MAR,Sale,280000,2,1,120,Apartment,2,3140
+280,San Francisco,CASA EN COCO DEL MAR,Rental,715000,5,4,439,House,1,7351
+281,San Francisco,SANTORINI,Sale,995000,3,2,536,Apartment,1,4764
+282,San Francisco,VERANDA TOWER,Rental,337500,2,2,171,Apartment,2,5265
+283,San Francisco,ICON TOWER,Sale,331200,2,2,160,Apartment,2,8705
+284,San Francisco,BALEARES,Sale,595000,4,3,286,Apartment,1,3844
+285,San Francisco,BELVEDERE,Rental,680000,5,2,607,Apartment,1,4032
+286,Ancón,EMBASSY CLUB COURTYARD II,Sale,260000,2,2,144,Apartment,2,8681
+287,Ancón,TOWNHOUSE EMBASSY CLUB,Rental,599000,3,3,263,House,1,3981
+288,Ancón,Greenfield Casa 18,SaleMLS Acobir,440000,3,2,264,House,1,7472
+289,Ancón,CASA EN CLAYTON,Rental,675000,3,2,219,House,1,5573
+290,Ancón,CLAYTON PARK,Sale,290000,3,3,162,Apartment,2,8192
+291,San Francisco,EMBASSY CLUB COURTYARD II,Sale,375000,2,6,144,Apartment,2,9027
+292,San Francisco,THE REGENT,Sale,275000,3,1,215,Apartment,2,6223
+293,San Francisco,PLAZA REAL,Sale,255000,3,2,180,Apartment,2,5876
+294,San Francisco,LAS MARQUESAS,Sale,220000,3,3,97,Apartment,2,7131
+295,San Francisco,PH Joy Tower,Rental,425000,3,2,72,Apartment,1,2937
+296,San Francisco,PH COUNTRY PARK,Sale,230000,3,2,345,Apartment,2,9924
+297,San Francisco,Aquamarina,Sale,130000,2,1,183,Apartment,2,7367
+298,San Francisco,ALQUILADO Y GENERANDO INGRESOS MENSUAL,Sale,160000,2,5,86,Apartment,2,6317
+299,San Francisco,PREMIER LOFT,Sale,661500,3,3,95,Apartment,1,8012
+300,San Francisco,7400 EAST,Sale,350000,3,3,212,Apartment,2,8881
