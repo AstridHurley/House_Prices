@@ -1,0 +1,291 @@
+area_type,availability,location,size,society,total_sqft,bath,room,price
+Super built-up Area,Sale,Calidonia,2 BHK,WHITE,119,2,2,250000
+Built-up Area,Sale,Calidonia,4 Bedroom,H2O,405,3,3,589000
+Plot Area,Sale,Calidonia,3 BHK,WHITE,169,3,3,338000
+Super built-up Area,Sale,Bella Vista,2 BHK,RIVAGE,177,2,2,390000
+Super built-up Area,Rental,Bella Vista,4 Bedroom,WATERS ON THE BAY,122,2,2,370000
+Super built-up Area,Sale,Calidonia,3 BHK,BAYFRONT,100,1,1,215000
+Super built-up Area,Rental,Calidonia,2 BHK,LA ENSENADA,194,3,3,360000
+Super built-up Area,Rental,Bella Vista,4 Bedroom,RIVAGE,169,2,2,550000
+Super built-up Area,Sale,Bella Vista,3 BHK,MIRAMAR TORRE 2,750,3,3,1500000
+Super built-up Area,Sale,Calidonia,2 BHK,MIRAMAR PLAZA,600,4,3,1500000
+Super built-up Area,Sale,Bella Vista,4 Bedroom,RIVAGE,347,3,3,950000
+Super built-up Area,Sale,Bella Vista,3 BHK,ARTS & YOO,316,3,3,1080000
+Super built-up Area,Sale,Bella Vista,2 BHK,MIRAMAR TORRE 2,375,3,3,800000
+Super built-up Area,Sale,Bella Vista,4 Bedroom,MIRAMAR TORRE 2,375,3,3,900000
+Super built-up Area,Rental,Bella Vista,3 BHK,WATERS ON THE BAY,123,2,2,390000
+Super built-up Area,Rental,Bella Vista,2 BHK,YOO,180,2,2,650000
+Super built-up Area,Sale,Calidonia,4 Bedroom,BAYFRONT TOWER,87,1,1,220000
+Super built-up Area,Sale,Bella Vista,3 BHK,YOO,94,1,1,295000
+Super built-up Area,Sale,Bella Vista,2 BHK,YOO,176,2,2,550000
+Super built-up Area,Sale,Ancón,4 Bedroom,YACHT CLUB,152,2,2,420000
+Super built-up Area,Rental,Ancón,3 BHK,YACHT CLUB,179,2,3,500000
+Super built-up Area,Sale,Bella Vista,2 BHK,RIVAGE,150,2,1,360000
+Super built-up Area,Sale,Calidonia,4 Bedroom,WATERS ON THE BAY,269,3,3,690000
+Super built-up Area,Rental,Calidonia,3 BHK,WHITE,121,1,1,280000
+Super built-up Area,Rental,Bella Vista,2 BHK,MIRAMAR TORRE 2,375,3,3,900000
+Super built-up Area,Sale,Calidonia,4 Bedroom,WHITE,119,2,2,280000
+Super built-up Area,Sale,San Francisco,3 BHK,Apartamento JW Marriott,130,1,1,395000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,OCEANAIRE,95,1,1,218000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,PH Oasis on the Bay,199,1,2,225000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,ROYAL PACIFIC,144,2,3,260000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,Aquamare 29-B,356,3,3,850000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,COURTYARD VIEW,160,2,2,225000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,AQUALINA,381,3,3,749000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,DUPONT TOWER,250,2,2,420000
+Super built-up Area,Rental,"Punta Pacifica, San francisco",4 Bedroom,MYSTIC POINT,217,3,3,450000
+Super built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,MYSTIC POINT T100,180,3,3,315000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,Punta Roca,526,4,4,1000000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,COSTA PACIFICA T100,242,2,2,290000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,OASIS,99,1,2,210000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,AQUALINA,408,4,4,720000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,COSTA PACIFICA T100,242,2,3,249000
+Super built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,BLUE BAHIA,126,5,4,895000
+Super built-up Area,Rental,"Punta Pacifica, San francisco",2 BHK,BLUE BAHIA,126,3,3,579000
+Super built-up Area,Rental,"Punta Pacifica, San francisco",4 Bedroom,DUPONT TOWER,126,2,2,379000
+Super built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,OCEANAIRE,155,2,2,290000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,PH Oceanaire,178,2,2,330000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,SEMI-AMOBLADO + DEPÓSITO DE 11 METROS,99,1,2,277000
+Built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,AQUALINA,328,3,3,636000
+Built-up Area,Rental,"Punta Pacifica, San francisco",2 BHK,COSTA PACIFICA T100,242,2,3,410000
+Built-up Area,Rental,"Punta Pacifica, San francisco",4 Bedroom,COSTA PACIFICA T400,199,3,3,385000
+Built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,"BLUE BAHIA, Distinguido ! Impecable !",279,3,3,599000
+Built-up Area,Rental,"Punta Pacifica, San francisco",2 BHK,PACIFIC STAR,180,3,3,300000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,PACIFIC POINT TORRE 300,306,3,3,570000
+Built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,OCEANAIRE,321,2,2,840000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,OCEAN PARK TORRE 1,259,3,3,550000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,LOFT FOUR 41,483,1,2,540000
+Built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,OCEAN DRIVE,222,3,3,430000
+Built-up Area,Rental,"Punta Pacifica, San francisco",2 BHK,COSTA PACIFICA T400,199,3,3,360000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,OCEAN DRIVE,460,3,3,460000
+Built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,OASIS ON THE BAY,99,1,2,220000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,COSTA PACIFICA TORRE T100,126,3,3,240000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,PACIFIC POINT TORRE 300,306,4,3,720000
+Built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,PACIFIC POINT TORRE 700,389,3,3,1100000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,GRAND TOWER,159,2,2,345000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,TRUMP OCEAN CLUB,153,2,2,515000
+Built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,TRUMP OCEAN CLUB,153,2,2,515000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,OCEAN DRIVE,333,3,3,575000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,PACIFIC POINT TORRE 200,395,3,3,1027650
+Built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,TRUMP OCEAN CLUB,153,2,2,550000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,OCEAN DRIVE,222,3,3,460000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,PACIFIC BLUE,88,2,2,190000
+Built-up Area,Rental,"Punta Pacifica, San francisco",3 BHK,ROYAL PACIFIC,129,2,3,290000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,PACIFIC POINT,404,4,3,1095000
+Built-up Area,Rental,"Punta Pacifica, San francisco",4 Bedroom,PACIFIC POINT TORRE 300,306,3,3,1050000
+Built-up Area,Sale,"Punta Pacifica, San francisco",3 BHK,OCEAN PARK TORRE 2,280,4,4,660000
+Built-up Area,Sale,"Punta Pacifica, San francisco",2 BHK,PACIFIC SKY,220,2,2,450000
+Built-up Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,GRAND TOWER,251,2,2,702975
+Plot Area,Sale,"Punta Pacifica, San francisco",3 BHK,GRAND TOWER,171,2,2,460875
+Plot Area,Sale,"Punta Pacifica, San francisco",2 BHK,GRAND TOWER,115,2,2,623600
+Plot Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,Q TOWER,363,6,4,950000
+Plot Area,Sale,"Punta Pacifica, San francisco",3 BHK,AQUAMARE,610,3,3,1450000
+Plot Area,Rental,"Punta Pacifica, San francisco",2 BHK,DUPONT TOWER,442,3,3,1199000
+Plot Area,Sale,"Punta Pacifica, San francisco",4 Bedroom,AQUAMARE,356,3,3,1100000
+Plot Area,Sale,"Punta Pacifica, San francisco",3 BHK,OCEAN PARK TORRE 1,448,3,4,985000
+Plot Area,Sale,Bella Vista,2 BHK,WHITE,119,2,2,250000
+Plot Area,Sale,Bella Vista,4 Bedroom,H2O,405,3,3,589000
+Plot Area,Sale,Calidonia,3 BHK,WHITE,169,3,3,338000
+Plot Area,Sale,Calidonia,2 BHK,RIVAGE,177,2,2,390000
+Plot Area,Rental,Bella Vista,4 Bedroom,WATERS ON THE BAY,122,2,2,370000
+Plot Area,Sale,Calidonia,3 BHK,BAYFRONT,100,1,1,215000
+Plot Area,Rental,Bella Vista,2 BHK,LA ENSENADA,194,3,3,360000
+Plot Area,Rental,Calidonia,4 Bedroom,RIVAGE,169,2,2,550000
+Plot Area,Sale,Bella Vista,3 BHK,MIRAMAR TORRE 2,750,3,3,1500000
+Plot Area,Sale,Calidonia,2 BHK,MIRAMAR PLAZA,600,4,3,1500000
+Plot Area,Sale,Calidonia,4 Bedroom,RIVAGE,347,3,3,950000
+Plot Area,Sale,Bella Vista,3 BHK,ARTS & YOO,316,3,3,1080000
+Plot Area,Sale,Bella Vista,2 BHK,MIRAMAR TORRE 2,375,3,3,800000
+Plot Area,Sale,Bella Vista,4 Bedroom,MIRAMAR TORRE 2,375,3,3,900000
+Plot Area,Rental,Bella Vista,3 BHK,WATERS ON THE BAY,122,2,2,390000
+Plot Area,Rental,Bella Vista,2 BHK,YOO,180,2,2,650000
+Plot Area,Sale,Calidonia,4 Bedroom,BAYFRONT TOWER,87,1,1,220000
+Plot Area,Sale,Bella Vista,3 BHK,YOO,94,1,1,295000
+Plot Area,Sale,Bella Vista,2 BHK,YOO,176,2,2,550000
+Plot Area,Sale,Calidonia,4 Bedroom,YACHT CLUB,152,2,2,420000
+Plot Area,Rental,Calidonia,3 BHK,YACHT CLUB,179,2,3,500000
+Plot Area,Sale,Calidonia,2 BHK,RIVAGE,150,2,1,360000
+Plot Area,Sale,Bella Vista,4 Bedroom,WATERS ON THE BAY,269,3,3,690000
+Plot Area,Rental,Calidonia,3 BHK,WHITE,121,1,1,280000
+Plot Area,Rental,Bella Vista,2 BHK,MIRAMAR TORRE 2,375,3,3,900000
+Plot Area,Sale,Calidonia,4 Bedroom,WHITE,119,2,2,280000
+Plot Area,Sale,"Obarrio, Bella Vista",3 BHK,PH BRISAS OBARRIO,173,3,3,240000
+Plot Area,Sale,"Obarrio, Bella Vista",2 BHK,RIVER PARK,131,2,3,240000
+Plot Area,Sale,"Obarrio, Bella Vista",4 Bedroom,Vendo ganga apto amueblado Obarrio,150,3,3,230000
+Plot Area,Sale,"Obarrio, Bella Vista",3 BHK,"CASA EN OBARRIO PARA REMODELAR $ 400,000",170,4,3,400000
+Plot Area,Sale,"Obarrio, Bella Vista",2 BHK,EXCELENTE APARTAMENTO EN OBARRIO,135,3,2,275000
+Plot Area,Sale,"Obarrio, Bella Vista",4 Bedroom,PH Denovo,110,2,2,205000
+Plot Area,Sale,"Obarrio, Bella Vista",3 BHK,SOPHIA TOWER,188,3,3,355000
+Plot Area,Sale,"Obarrio, Bella Vista",2 BHK,CASA EN OBARRIO,292,3,3,750000
+Plot Area,Sale,"Obarrio, Bella Vista",4 Bedroom,SOPHIA TOWER,188,3,3,375000
+Plot Area,Rental,Bella Vista,3 BHK,THE PALM,166,3,3,382812
+Plot Area,Rental,Bella Vista,2 BHK,THE PALM,167,3,3,383456
+Plot Area,Sale,Bella Vista,4 Bedroom,RIVER PARK,131,2,2,325000
+Built-up Area,Sale,Bella Vista,3 BHK,Apartamento en Yacht Club,166,1,1,261670
+Plot Area,Sale,Bella Vista,2 BHK,ESCUCHAMOS OFERTAS ¡PRECIO NEGOCIABLE!,108,2,2,270000
+Super built-up Area,Sale,Bella Vista,4 Bedroom,THE SEAWAVES,125,2,3,220000
+Super built-up Area,Sale,Bella Vista,3 BHK,CERROMAR,331,4,4,470000
+Super built-up Area,Sale,Bella Vista,2 BHK,Apartamento en PH Marina Park,204,3,3,390000
+Built-up Area,Sale,Bella Vista,4 Bedroom,Miramar 36-B,375,3,3,690000
+Built-up Area,Sale,Bella Vista,3 BHK,SE VENDE APARTAMENTO EN PH ALLURE,287,3,3,550000
+Plot Area,Sale,Bella Vista,2 BHK,MEGAPOLIS PISO ALTO | EVALUAMOS OFERTAS,43,1,1,101000
+Plot Area,Rental,Bella Vista,4 Bedroom,ph h2o on the ocean,280,3,4,485000
+Built-up Area,Sale,Bella Vista,3 BHK,Torres del Pacifico Torre B,180,3,3,300000
+Plot Area,Sale,Cinta Costera,2 BHK,NUOVO PANAMA con 4 ESTACIONAMIENTOS,101,3,2,390000
+Super built-up Area,Sale,Cinta Costera,4 Bedroom,NUOVO PANAMA con 2 ESTACIONAMIENTOS,94,3,2,330000
+Built-up Area,Sale,Bella Vista,3 BHK,Apartamento en Sale PH Rivage 29-B,150,2,2,275000
+Plot Area,Sale,Cinta Costera,2 BHK,NUOVO PANAMA A PASOS DE LA CINTA COSTERA,94,3,2,299000
+Super built-up Area,Sale,Bella Vista,4 Bedroom,ROR,239,3,3,298000
+Built-up Area,Rental,Bella Vista,3 BHK,CASA COMERCIAL EN BELLA VISTA,720,6,6,1080000
+Plot Area,Rental,Bella Vista,2 BHK,"P.H BELLA VISTA PARK,",160,2,2,297500
+Super built-up Area,Sale,Bella Vista,4 Bedroom,PH BELLA VISTA PARK,132,2,2,290000
+Built-up Area,Sale,Bella Vista,3 BHK,ROR,228,3,3,330000
+Plot Area,Sale,Bella Vista,2 BHK,ROR,228,2,2,398000
+Super built-up Area,Sale,Bella Vista,4 Bedroom,BELLE VIEW,125,2,3,315000
+Built-up Area,Rental,Bella Vista,3 BHK,Parkside Costa del Este,96,1,1,320000
+Plot Area,Sale,Costa del Este,2 BHK,MAREA II,718,4,4,2216700
+Super built-up Area,Rental,Bella Vista,4 Bedroom,COSTA SERENA,550,5,3,1100000
+Built-up Area,Sale,Costa del Este,3 BHK,Castellammare Loft,113,2,2,280000
+Plot Area,Sale,Costa del Este,2 BHK,Sol del Este,147,3,3,260000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,COSTA SERENA,420,4,4,790000
+Built-up Area,Sale,Costa del Este,3 BHK,Costa Dorada #82,380,3,3,650000
+Plot Area,Sale,Costa del Este,2 BHK,"Costa del Este, COSTA SERENA",500,3,3,1023000
+Super built-up Area,Rental,Costa del Este,4 Bedroom,COSTA AZUL,247,3,4,850000
+Built-up Area,Rental,Costa del Este,3 BHK,Costa Serena,462,4,4,880000
+Plot Area,Sale,Costa del Este,2 BHK,OCEAN ONE,330,4,4,620000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,Green Bay III 22B,114,2,3,165000
+Built-up Area,Sale,Costa del Este,3 BHK,COSTA SERENA,360,3,3,850000
+Plot Area,Sale,Costa del Este,2 BHK,COSTA BAY,414,3,3,790000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,RIVERSIDE,101,2,1,294000
+Built-up Area,Sale,Costa del Este,3 BHK,BALMORAL,767,4,4,2500000
+Plot Area,Sale,Costa del Este,2 BHK,CAMELIAS,655,3,3,1500000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,BEGONIAS,900,6,6,1750000
+Built-up Area,Rental,Costa del Este,3 BHK,PH ALTAMAR DEL ESTE,317,3,3,699000
+Plot Area,Rental,Costa del Este,2 BHK,PH RIVERSIDE EN Rental O Sale,105,2,1,340000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,COSTA BELLA RESIDENCIA EN Sale,360,4,3,740000
+Built-up Area,Sale,Costa del Este,3 BHK,MAREA II,718,4,4,2000000
+Plot Area,Rental,Costa del Este,2 BHK,PH VITRI TOWER,525,4,4,1300000
+Super built-up Area,Rental,Costa del Este,4 Bedroom,SOHO TOWER IMPECABLE,207,3,3,450000
+Built-up Area,Rental,Costa del Este,3 BHK,COUNTRY CLUB,204,3,3,370000
+Plot Area,Sale,Costa del Este,2 BHK,PH SEVILLA T0RRE 1000,110,2,2,239000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,TORRE ZEUS,372,3,3,706200
+Built-up Area,Sale,Costa del Este,3 BHK,COSTA SERENA,520,5,5,1050000
+Plot Area,Sale,Costa del Este,2 BHK,PARQUE DEL MAR I,202,3,3,365000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,TOSCANA DEL ESTE,500,4,4,1800000
+Built-up Area,Rental,Costa del Este,3 BHK,ROYAL PACIFIC,575,4,5,1350000
+Plot Area,Sale,Costa del Este,2 BHK,OCEAN TWO,410,4,4,875000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,PH Breeze,238,3,3,450000
+Built-up Area,Rental,Costa del Este,3 BHK,PH MAREA,626,4,4,1785000
+Plot Area,Sale,Costa del Este,2 BHK,OCEAN TWO,415,3,3,749000
+Super built-up Area,Rental,Costa del Este,4 Bedroom,Sol del Este 19A,147,3,3,260000
+Built-up Area,Sale,Costa del Este,3 BHK,PH MAREA,626,4,4,1550000
+Plot Area,Sale,Costa del Este,2 BHK,PH PARQUE DEL MAR LINDA VISTA AL PARQUE,202,3,3,359900
+Super built-up Area,Sale,Costa del Este,4 Bedroom,OCEAN TWO,303,3,3,675000
+Built-up Area,Rental,Costa del Este,3 BHK,PANAMA BAY TOWER,338,3,3,660000
+Plot Area,Rental,Costa del Este,2 BHK,VITRI TOWER,368,3,3,956228
+Super built-up Area,Sale,Costa del Este,4 Bedroom,GREEN BAY COSTA DEL ESTE,125,2,3,180000
+Built-up Area,Rental,Costa del Este,3 BHK,Ocean Two,303,3,3,625000
+Plot Area,Rental,Costa del Este,2 BHK,Riverside,142,2,2,330000
+Super built-up Area,Sale,Costa del Este,4 Bedroom,Penthouse Breeze Costa del Este,443,5,4,1200000
+Built-up Area,Sale,Costa del Este,3 BHK,TEN TOWER,432,3,3,895000
+Plot Area,Sale,Costa del Este,2 BHK,Casa,313,3,3,700000
+Super built-up Area,Rental,Costa del Este,4 Bedroom,Parque del Mar,202,3,3,380000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,PH – Pearl At The Sea,291,3,3,695000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,PARKSIDE,96,1,1,300000
+Super built-up Area,Rental,"Costa del Este,Juan Díaz",4 Bedroom,Sevilla,110,2,2,220000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,LATITUDE,210,3,3,485000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,PH TITANIUM,226,3,3,475000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,Royal Pacific,561,4,4,1350000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,MURANO,290,3,3,700000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,TEN TOWER,424,3,3,925000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,TOSCANA DEL ESTE,650,4,4,2200000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,BALMORAL,850,8,5,3200000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,THE REGENT COUNTRY CLUB,106,2,2,315000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,THE REGENT COUNTRY CLUB,96,2,2,280000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,MAREA II,718,4,4,2221700
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,MAREA II,718,4,4,2206700
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,MAREA II,718,4,4,2191700
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,MAREA I,680,4,4,2000000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,PALMERAS DEL ESTE,368,3,3,889000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,ACQUA I,325,3,3,915000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,MAREA II,1145,4,4,2389000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,ACQUA I,325,3,3,1040000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,TOP TOWERS,119,2,2,245000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,TITANIUM,223,3,3,550000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,PARQUE DEL MAR I,202,3,3,470000
+Super built-up Area,Sale,"Costa del Este,Parque Lefevre",4 Bedroom,MAGNOLIAS,807,4,4,1595000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,COSTA VIEW,164,2,3,285000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,MURANO,323,3,3,790000
+Super built-up Area,Rental,"Costa del Este,Juan Díaz",4 Bedroom,COSTA DE LAS PERLAS,580,4,4,1400000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,TOP TOWERS,113,2,2,270000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,MAGNOLIAS,1100,5,4,2500000
+Super built-up Area,Rental,"Costa del Este,Juan Díaz",4 Bedroom,COSTA AZUL,467,4,4,1300000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,BEGONIAS,570,4,4,1500000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,BALMORAL,803,5,4,2450000
+Super built-up Area,Rental,"Costa del Este,Juan Díaz",4 Bedroom,VERTIKAL,172,3,3,400000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,TITANIUM,374,3,3,950000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,ACQUA II,345,3,3,1100000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,BREEZE,217,3,3,510000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,SOL DEL ESTE TORRE 1,147,3,3,310000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,SEVILLA,155,2,3,310000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,MAGNOLIAS,1200,5,5,3825000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,PALMERAS DEL ESTE,378,3,4,1075000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,PEARL AT THE SEA,292,3,3,760000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,BREEZE,217,3,3,520000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,ELEVATION,185,3,3,400000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,COSTA DEL ESTE COUNTRY CLUB T100,204,3,3,470000
+Super built-up Area,Sale,"Costa del Este,Juan Díaz",4 Bedroom,SOL DEL ESTE TORRE 2,147,3,3,310000
+Built-up Area,Sale,"Costa del Este,Juan Díaz",3 BHK,PARQUE DEL MAR I,202,3,3,530000
+Plot Area,Sale,"Costa del Este,Juan Díaz",2 BHK,PARQUE DEL MAR I,202,3,3,500000
+Super built-up Area,Sale,"SANTA MARIA,Juan Díaz",4 Bedroom,ACQUA II,345,3,3,1200000
+Built-up Area,Rental,"SANTA MARIA,Juan Díaz",3 BHK,PH PRIVILEDGE,235,3,3,700000
+Plot Area,Sale,"SANTA MARIA,Juan Díaz",2 BHK,THE HERITAGE,640,4,4,2100000
+Super built-up Area,Rental,"SANTA MARIA,Juan Díaz",4 Bedroom,THE RESERVE T300,416,4,4,1249000
+Built-up Area,Sale,"SANTA MARIA,Juan Díaz",3 BHK,THE RESERVE T300,296,5,4,750000
+Plot Area,Sale,"SANTA MARIA,Juan Díaz",2 BHK,BUENAVISTA RESIDENCES,400,3,3,1199000
+Super built-up Area,Sale,"SANTA MARIA,Juan Díaz",4 Bedroom,LA VISTA ON THE GREEN,572,3,3,1700000
+Built-up Area,Sale,"SANTA MARIA,Juan Díaz",3 BHK,LA VISTA ON THE GREEN,336,3,3,875000
+Plot Area,Sale,"SANTA MARIA,Juan Díaz",2 BHK,THE RESERVE T300,296,4,4,690000
+Super built-up Area,Sale,"SANTA MARIA,Juan Díaz",4 Bedroom,VALERY POINT,351,3,3,1158795
+Built-up Area,Sale,"MARBELLA,Bella Vista",3 BHK,THE HERITAGE,640,3,3,3198050
+Plot Area,Rental,"MARBELLA,Bella Vista",2 BHK,EBBELLE,158,3,3,260000
+Super built-up Area,Sale,"MARBELLA,Bella Vista",4 Bedroom,SOL MARINA REMODELADO – 242M2,242,3,3,399000
+Built-up Area,Sale,"MARBELLA,Bella Vista",3 BHK,Marbella Tower,186,3,3,265000
+Plot Area,Sale,"MARBELLA,Bella Vista",2 BHK,PH Girasol,168,2,3,225000
+Super built-up Area,Sale,"MARBELLA,Bella Vista",4 Bedroom,"Apartamento en Marbella, Ph Alfil",174,3,3,225000
+Built-up Area,Rental,"MARBELLA,Bella Vista",3 BHK,PH LOS DELFINES APT 36,560,4,4,760000
+Plot Area,Sale,"MARBELLA,Bella Vista",2 BHK,Grand Bay 2 recámaras,97,2,2,225000
+Super built-up Area,Sale,"MARBELLA,Bella Vista",4 Bedroom,BAHIA ESMERALDA,497,4,4,910000
+Built-up Area,Sale,"MARBELLA,Bella Vista",3 BHK,Luxury apartment in Yoo Panama,121,1,1,359000
+Plot Area,Sale,Bella Vista,2 BHK,TORRE MARBELLA,187,3,3,285000
+Super built-up Area,Sale,Bella Vista,4 Bedroom,BAHIA ESMERALDA,245,3,3,418500
+Built-up Area,Rental,Bella Vista,3 BHK,BAHIA ESMERALDA,246,3,3,458000
+Plot Area,Sale,Bella Vista,2 BHK,RIO MAR,215,2,3,260000
+Super built-up Area,Sale,Bella Vista,4 Bedroom,COSTA DEL MAR,241,3,3,350000
+Built-up Area,Sale,Bella Vista,3 BHK,MARBELLA 47,195,3,3,515000
+Plot Area,Rental,Bella Vista,2 BHK,MARBELLA TOWER II,213,3,3,288000
+Super built-up Area,Sale,San Francisco,4 Bedroom,MARBELLA TOWER II,213,4,3,420000
+Built-up Area,Sale,San Francisco,3 BHK,PANAMAR,378,3,3,690000
+Plot Area,Sale,San Francisco,2 BHK,ICON TOWER,160,3,3,315000
+Super built-up Area,Rental,San Francisco,4 Bedroom,SOBRE LAS ROCAS,575,3,3,695000
+Built-up Area,Rental,San Francisco,3 BHK,PUNTARENAS,338,2,3,670000
+Plot Area,Sale,San Francisco,2 BHK,Panamar Apt 2 A,378,3,3,625000
+Super built-up Area,Rental,San Francisco,4 Bedroom,SANTORINI,536,3,3,970000
+Built-up Area,Sale,San Francisco,3 BHK,P.H. OCEAN SKY EN Sale PISO COMPLETO,347,3,3,650000
+Plot Area,Sale,San Francisco,2 BHK,OCEAN SKY,500,3,3,1500000
+Super built-up Area,Rental,San Francisco,4 Bedroom,DA VINCI,221,3,3,389000
+Built-up Area,Sale,San Francisco,3 BHK,APARTAMENTO EN OCEAN SKY COCO DEL MAR,147,1,2,325000
+Plot Area,Sale,San Francisco,2 BHK,Edificio Panamar,620,3,4,1325000
+Super built-up Area,Sale,San Francisco,4 Bedroom,PUNTARENAS,383,3,3,660000
+Built-up Area,Sale,San Francisco,3 BHK,BOUTIQUE QUARTIER DEL MAR,120,1,2,280000
+Plot Area,Rental,San Francisco,2 BHK,CASA EN COCO DEL MAR,439,4,5,715000
+Super built-up Area,Sale,San Francisco,4 Bedroom,SANTORINI,536,2,3,995000
+Built-up Area,Rental,San Francisco,3 BHK,VERANDA TOWER,171,2,2,337500
+Plot Area,Sale,San Francisco,2 BHK,ICON TOWER,160,2,2,331200
+Built-up Area,Sale,San Francisco,4 Bedroom,BALEARES,286,3,4,595000
+Plot Area,Rental,San Francisco,3 BHK,BELVEDERE,607,2,5,680000
+Built-up Area,Sale,Ancón,2 BHK,EMBASSY CLUB COURTYARD II,144,2,2,260000
+Plot Area,Rental,Ancón,4 Bedroom,TOWNHOUSE EMBASSY CLUB,263,3,3,599000
+Built-up Area,SaleMLS Acobir,Ancón,3 BHK,Greenfield Casa 18,264,2,3,440000
+Plot Area,Rental,Ancón,2 BHK,CASA EN CLAYTON,219,2,3,675000
+Plot Area,Sale,Ancón,4 Bedroom,CLAYTON PARK,162,3,3,290000
